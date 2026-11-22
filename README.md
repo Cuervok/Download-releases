@@ -6,6 +6,6 @@
 > [!NOTE]
 > Manual Dwl;
 
-![Manual dwl]([https://ejemplo.com/imagen.png](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/github_click_release.jpg?q=50&fit=crop&w=650&dpr=1.5))
+![alt text](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/github_click_release.jpg?q=50&fit=crop&w=650&dpr=1.5)
 
-All rights reserved
+<small>All rights reserved<small>
